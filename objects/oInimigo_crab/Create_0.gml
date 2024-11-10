@@ -1,0 +1,10 @@
+event_inherited();
+vida_max = 3;
+vida_atual = vida_max;
+speed = 1.5;
+stay_still_chance = 1; 
+is_moving = true; 
+direction = random(360); 
+knockback_duration = 0; 
+knockback_force = 5; 
+morto = false;
