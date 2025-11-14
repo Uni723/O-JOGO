@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sShot",
   "bboxMode":0,
   "bbox_bottom":8,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"bc6fbc30-69fe-4943-8b55-7c9f0c3434f9","name":"bc6fbc30-69fe-4943-8b55-7c9f0c3434f9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"bc6fbc30-69fe-4943-8b55-7c9f0c3434f9","name":"bc6fbc30-69fe-4943-8b55-7c9f0c3434f9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,13 +26,13 @@
   "origin":0,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Sons/Sprites.yy",
+    "path":"folders/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"sShot",
     "autoRecord":true,
     "backdropHeight":768,

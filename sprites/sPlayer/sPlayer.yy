@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sPlayer",
   "bboxMode":2,
   "bbox_bottom":57,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4956263d-60ba-405c-8c20-88748e66bad2","name":"4956263d-60ba-405c-8c20-88748e66bad2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"933ce862-2f6b-43b8-b7b3-ba41bf8d3d57","name":"933ce862-2f6b-43b8-b7b3-ba41bf8d3d57","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4956263d-60ba-405c-8c20-88748e66bad2","name":"4956263d-60ba-405c-8c20-88748e66bad2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"933ce862-2f6b-43b8-b7b3-ba41bf8d3d57","name":"933ce862-2f6b-43b8-b7b3-ba41bf8d3d57","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":32,
   "gridY":32,
@@ -46,13 +46,13 @@
   "origin":4,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Sons/Sprites.yy",
+    "path":"folders/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"sPlayer",
     "autoRecord":true,
     "backdropHeight":768,

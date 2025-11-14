@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Starfish2_shadow1",
   "bboxMode":0,
   "bbox_bottom":55,
@@ -12,10 +12,10 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"9a4e6eda-5cbe-4728-af94-e38deb0bd87a","name":"9a4e6eda-5cbe-4728-af94-e38deb0bd87a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9adb5c0a-897c-440d-a120-574a29628038","name":"9adb5c0a-897c-440d-a120-574a29628038","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"31d574c3-0f1c-473b-a0dc-107685df2e13","name":"31d574c3-0f1c-473b-a0dc-107685df2e13","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"fb0133e2-908c-4da6-96f6-fe9151ba1c34","name":"fb0133e2-908c-4da6-96f6-fe9151ba1c34","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9a4e6eda-5cbe-4728-af94-e38deb0bd87a","name":"9a4e6eda-5cbe-4728-af94-e38deb0bd87a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9adb5c0a-897c-440d-a120-574a29628038","name":"9adb5c0a-897c-440d-a120-574a29628038","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"31d574c3-0f1c-473b-a0dc-107685df2e13","name":"31d574c3-0f1c-473b-a0dc-107685df2e13","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fb0133e2-908c-4da6-96f6-fe9151ba1c34","name":"fb0133e2-908c-4da6-96f6-fe9151ba1c34","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -29,13 +29,13 @@
   "origin":0,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Sons/Sprites.yy",
+    "path":"folders/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"Starfish2_shadow1",
     "autoRecord":true,
     "backdropHeight":768,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"s_FUNDO",
   "bboxMode":0,
   "bbox_bottom":63,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"d3c53c44-7784-4073-9da4-e6e302b047c9","name":"d3c53c44-7784-4073-9da4-e6e302b047c9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d3c53c44-7784-4073-9da4-e6e302b047c9","name":"d3c53c44-7784-4073-9da4-e6e302b047c9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,13 +26,13 @@
   "origin":0,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Sons/Sprites.yy",
+    "path":"folders/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"s_FUNDO",
     "autoRecord":true,
     "backdropHeight":768,

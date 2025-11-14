@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sMao",
   "bboxMode":2,
   "bbox_bottom":34,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"67bce2b1-e86d-4751-9358-fe7de204914e","name":"67bce2b1-e86d-4751-9358-fe7de204914e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"67bce2b1-e86d-4751-9358-fe7de204914e","name":"67bce2b1-e86d-4751-9358-fe7de204914e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -45,13 +45,13 @@
   "origin":9,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Sons/Sprites.yy",
+    "path":"folders/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"sMao",
     "autoRecord":true,
     "backdropHeight":768,

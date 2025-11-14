@@ -16,7 +16,7 @@ atirando = function() {
             var _tiro = instance_create_layer(x + _x, y + _y, layer, tiro);
             _tiro.speed = velocidade;
             
-            // Define a direção do tiro para seguir o mouse
+            // define a direção do tiro pra seguir o mouse
             _tiro.direction = point_direction(x, y, mouse_x, mouse_y);
         }
     }

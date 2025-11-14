@@ -27,9 +27,9 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"velocidade","filters":[],"listItems":[],"multiselect":false,"name":"velocidade","rangeEnabled":false,"rangeMax":5.0,"rangeMin":0.1,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"espera_tiro","filters":[],"listItems":[],"multiselect":false,"name":"espera_tiro","rangeEnabled":false,"rangeMax":2.0,"rangeMin":0.1,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.2","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"tiro","filters":[
+    {"$GMObjectProperty":"v2","%Name":"velocidade","filters":[],"listItems":[],"multiselect":false,"name":"velocidade","rangeEnabled":false,"rangeMax":5.0,"rangeMin":0.1,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":0,},
+    {"$GMObjectProperty":"v2","%Name":"espera_tiro","filters":[],"listItems":[],"multiselect":false,"name":"espera_tiro","rangeEnabled":false,"rangeMax":2.0,"rangeMin":0.1,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.2","varType":0,},
+    {"$GMObjectProperty":"v2","%Name":"tiro","filters":[
         "GMObject",
       ],"listItems":[],"multiselect":false,"name":"tiro","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"oShoot","path":"objects/oShoot/oShoot.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"oShoot","varType":5,},
   ],

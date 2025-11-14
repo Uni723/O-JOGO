@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sCorrendo",
   "bboxMode":2,
   "bbox_bottom":49,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"7ebef3bc-228e-4f23-8a39-1e4058c5fb89","name":"7ebef3bc-228e-4f23-8a39-1e4058c5fb89","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"f8372bf2-97cd-4fab-88c1-86a69a17012d","name":"f8372bf2-97cd-4fab-88c1-86a69a17012d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"6ad80c01-54ad-4d74-9917-0e7b94c733d4","name":"6ad80c01-54ad-4d74-9917-0e7b94c733d4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"7ebef3bc-228e-4f23-8a39-1e4058c5fb89","name":"7ebef3bc-228e-4f23-8a39-1e4058c5fb89","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f8372bf2-97cd-4fab-88c1-86a69a17012d","name":"f8372bf2-97cd-4fab-88c1-86a69a17012d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"6ad80c01-54ad-4d74-9917-0e7b94c733d4","name":"6ad80c01-54ad-4d74-9917-0e7b94c733d4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -28,13 +28,13 @@
   "origin":4,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Sons/Sprites.yy",
+    "path":"folders/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"sCorrendo",
     "autoRecord":true,
     "backdropHeight":768,
