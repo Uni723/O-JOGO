@@ -1,4 +1,24 @@
+if (invul) {
+    invul_timer--;
 
+    // Efeito de piscar
+    blink_timer++;
+    if (blink_timer > blink_speed) {
+        blink = !blink;
+        blink_timer = 0;
+    }
+
+    image_alpha = blink ? 0.3 : 1;
+
+    if (invul_timer <= 0) {
+        invul = false;
+        image_alpha = 1;
+    }
+}
+
+if (vida <= 0) {
+    room_goto(rm_menu); 
+}
 if (keyboard_check_pressed(ord("X")) && !invulneravel) {
     invulneravel = true;
     invulneravel_timer = room_speed *1.5

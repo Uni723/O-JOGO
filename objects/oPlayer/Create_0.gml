@@ -1,6 +1,22 @@
 
 velh = 0;
 velv = 0;
+max_vel = 5;
+
+// Vida
+vida_max = 4;
+vida = vida_max;
+
+// Invulnerabilidade
+invul = false;
+invul_timer = 0;
+invul_time_max = 40; // ~0.6s
+
+// Controle de piscar
+blink = false;
+blink_timer = 0;
+blink_speed = 4;
+
 max_vel = 5.5;
 vel = 0;
 move_dir = 0;
@@ -8,6 +24,7 @@ dano = false;
 patrick = 0;
 invulneravel = false;
 invulneravel_timer = 0;
+
 
 arma = instance_create_layer(x, y, "Instances", oMao);
 

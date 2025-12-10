@@ -1,3 +1,10 @@
+// CONFIGURAÇÕES
+vel = 2;               // velocidade do inimigo
+dist_ver = 200;        // distância pra começar a perseguir o player
+dir = 1;               // direção inicial da patrulha (1 = direita, -1 = esquerda)
+estado = "patrulha";   // estados: "patrulha" ou "perseguir"
+player = oPlayer;      // objeto do player
+
 event_inherited();
 vida_max = 3;
 vida_atual = vida_max;

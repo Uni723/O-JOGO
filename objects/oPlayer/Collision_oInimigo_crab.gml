@@ -1,4 +1,16 @@
-// Evento de colisão com o inimigo o_inimigo_crab
-if (!invulneravel) {
-    room_restart(); // Reinicia a fase apenas se o jogador não estiver invulnerável
+
+if (!invul) {
+
+    vida -= 1;
+
+    // Ativa invulnerabilidade
+    invul = true;
+    invul_timer = invul_time_max;
+
+    // Knockback opcional
+    var dx = x - other.x;
+    var dy = y - other.y;
+    var knock = 4;
+    x += lengthdir_x(knock, point_direction(other.x, other.y, x, y));
+    y += lengthdir_y(knock, point_direction(other.x, other.y, x, y));
 }
