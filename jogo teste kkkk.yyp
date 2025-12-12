@@ -51,6 +51,7 @@
     {"id":{"name":"inimigo_pai","path":"objects/inimigo_pai/inimigo_pai.yy",},},
     {"id":{"name":"obj_boss_arena","path":"objects/obj_boss_arena/obj_boss_arena.yy",},},
     {"id":{"name":"obj_boss_polvo","path":"objects/obj_boss_polvo/obj_boss_polvo.yy",},},
+    {"id":{"name":"OBJ_DEATH_SCREEN","path":"objects/OBJ_DEATH_SCREEN/OBJ_DEATH_SCREEN.yy",},},
     {"id":{"name":"obj_fala","path":"objects/obj_fala/obj_fala.yy",},},
     {"id":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
@@ -70,6 +71,7 @@
     {"id":{"name":"oShoot_2","path":"objects/oShoot_2/oShoot_2.yy",},},
     {"id":{"name":"oShoot","path":"objects/oShoot/oShoot.yy",},},
     {"id":{"name":"PATRICK","path":"objects/PATRICK/PATRICK.yy",},},
+    {"id":{"name":"morte_room","path":"rooms/morte_room/morte_room.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room100","path":"rooms/Room100/Room100.yy",},},
@@ -131,6 +133,7 @@
     {"roomId":{"name":"Room7","path":"rooms/Room7/Room7.yy",},},
     {"roomId":{"name":"Room12","path":"rooms/Room12/Room12.yy",},},
     {"roomId":{"name":"Room100","path":"rooms/Room100/Room100.yy",},},
+    {"roomId":{"name":"morte_room","path":"rooms/morte_room/morte_room.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

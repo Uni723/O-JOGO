@@ -17,7 +17,7 @@ if (invul) {
 }
 
 if (vida <= 0) {
-    room_goto(rm_menu); 
+    room_goto(morte_room); 
 }
 if (keyboard_check_pressed(ord("X")) && !invulneravel) {
     invulneravel = true;
