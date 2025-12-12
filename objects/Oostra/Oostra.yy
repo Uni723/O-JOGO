@@ -1,12 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Oostra",
+  "%Name":"oOstra",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oShoot","path":"objects/oShoot/oShoot.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Oostra",
+  "name":"oOstra",
   "overriddenProperties":[],
   "parent":{
     "name":"INIMIGOS",
@@ -31,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Pearl_sea_shell1_shadow2",
-    "path":"sprites/Pearl_sea_shell1_shadow2/Pearl_sea_shell1_shadow2.yy",
+    "name":"spr_ostrafechada",
+    "path":"sprites/spr_ostrafechada/spr_ostrafechada.yy",
   },
   "spriteMaskId":null,
   "visible":true,

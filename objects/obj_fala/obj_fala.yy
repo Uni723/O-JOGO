@@ -10,8 +10,8 @@
   "name":"obj_fala",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"objetossimples",
+    "path":"folders/Objetos/objetossimples.yy",
   },
   "parentObjectId":null,
   "persistent":false,
